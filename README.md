@@ -1,11 +1,11 @@
-# Informações de Países e sua população ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# Países e sua população ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
-Projeto para consumir API com informações de paises e retornar a população do mesmo. Desenvolvido React no bootcamp fullstack da IGTI.
+Projeto para consumir API com informações de paises e retornar a população do mesmo. Desenvolvido com React Hooks no bootcamp fullstack da IGTI.
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página
 
 <p align="center">
-  <img src="https://github.com/cicerorod/igti-fullstack-mod3-react-paises/blob/master/img/tela.PNG">
+  <img src="https://github.com/cicerorod/igti-fullstack-mod3-react-paises-reack-hooks/blob/master/img/tela.PNG">
 </p>
 
 
@@ -17,8 +17,8 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
-1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod3-react-paises.git`
-2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod3-react-paises`;
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod3-react-paises-reack-hooks.git`
+2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod3-react-paises-reack-hooks`;
 3. Executar o comando `yarn` para baixar as dependências. Ex: `yarn`;
 4. Executar o comando `yarn start`. Ex: `yarn start`
 5. Acessar o endereço `http://localhost:3000/`
@@ -29,6 +29,7 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 - **[ReactJS](https://reactjs.org/)**
 - **[React Dom](https://www.npmjs.com/package/react-dom)**
+- **[React Hooks](https://reactjs.org/docs/hooks-intro.html)**
 - **[HTML](https://www.w3schools.com/html/)**
 - **[JavaScript](https://www.w3schools.com/js/)**
 - **[CSS](https://www.w3schools.com/Css/)**
@@ -38,7 +39,7 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/ios-glyphs/20/000000/pull-request.png) Contribuições
 
-1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod3-react-paises/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/cicerorod/igti-fullstack-mod3-react-paises-reack-hooks/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/[nome]`)
 3. Faça o _commit_ (`git commit -am 'Add files [nome]'`)
 4. _Push_ (`git push origin feature/[nome]`)
@@ -46,7 +47,7 @@ Projeto para consumir API com informações de paises e retornar a população d
 
 ## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
 
-Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/igti-fullstack-mod3-react-paises/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/igti-fullstack-mod3-react-paises-reack-hooks/blob/master/LICENSE) para obter mais informações.
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
